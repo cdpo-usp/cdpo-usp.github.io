@@ -28,7 +28,9 @@ Com a ampliação da procura no mercado por profissionais com habilidades para a
 <p style='text-align: justify;text-justify: inter-word;'>
 Otimização Matemática é um ramo da matemática aplicada que dedica-se a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
 
-É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.
+É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.<br><br>
+
+Muitas tecnologias modernas não seriam possíveis sem técnicas de otimização. Além disso, a maioria das operações econômicas de grande porte dependem de forma central de técnicas de otimização. Diversas aplicações de computação científica demandam métodos de otimização eficientes.
 </p>
 
 <h2>2. Aplicações</h2>
