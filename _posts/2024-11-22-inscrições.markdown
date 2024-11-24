@@ -64,26 +64,24 @@ Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalida
 <h3>3.1. Critérios para classificação</h3>
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Os critérios a seguir, avaliados pela coordenação do curso a partir da documentação fornecida (veja abaixo), serão levados em consideração na concessão da bolsa:
-<ol>
-    <li>Situação financeira e socioeconômica</li>
-    <li>Mérito técnico, científico e acadêmico</li>
-</ol>
+    Os critérios a seguir, avaliados pela coordenação do curso a partir da documentação fornecida (veja abaixo), serão levados em consideração na concessão da bolsa:
+    <ol>
+        <li>Situação financeira e socioeconômica</li>
+        <li>Mérito técnico, científico e acadêmico</li>
+    </ol>
+    Para avaliação socioeconômica, serão analisados os seguintes documentos:
+    <ul>
+        <li>Holerite ou outros comprovantes de renda do Grupo Familiar</li>
+        <li>Certidão de nascimento dos menores de 21 anos do Grupo Familiar</li>
+        <li>Comprovante de aluguel ou de prestação de financiamento de moradia</li>
+        <li>Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção</li>
+        <li>Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar</li>
+    </ul>
 
-Para avaliação socioeconômica, serão analisados os seguintes documentos:
-<ul>
-    <li>Holerite ou outros comprovantes de renda do Grupo Familiar</li>
-    <li>Certidão de nascimento dos menores de 21 anos do Grupo Familiar</li>
-    <li>Comprovante de aluguel ou de prestação de financiamento de moradia</li>
-    <li>Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção</li>
-    <li>Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar</li>
-</ul>
+    Para avaliação do mérito, a documentação de inscrição será levada em conta.<br><br>
 
-Para avaliação do mérito, a documentação de inscrição será levada em conta.<br><br>
-
-Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.  
+    Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.
 </p>  
 
 
 > **Nota:** O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
-
