@@ -6,9 +6,9 @@ categories: Novidade
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-    Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br><br>
+    Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.<br><br>
 
-    Leia com atenção todas as informações da presente página antes de começar o processo de inscrição. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.
+    Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
 </p>
 
 <h2>1. O Sistema Apolo</h2>
@@ -30,7 +30,8 @@ categories: Novidade
             <li>Valor da matrícula: R$ 129,00</li>
             <li>Valor do curso: R$ 1.161,00 (3x R$387,00)</li>
         </ul>
-
+</p>
+<p style='text-align: justify;text-justify: inter-word;'>
     Os pagamentos podem ser realizados por crédito na conta informada abaixo (pix e depósito), por boleto (precisaremos de nome completo, endereço completo, CPF, RG, email) e por cartão de crédito (número e demais dados do cartão informados manualmente via email).
 </p>
 
@@ -54,27 +55,35 @@ categories: Novidade
     </ul>
 </p>
 
-<h2>3. Bolsas (isenções)</h2>
+<h2>3. Bolsas</h2>
 
-Serão concedidas bolsas a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+<p style='text-align: justify;text-justify: inter-word;'>
+Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalidades, a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+</p>
 
-### Critérios para classificação:
+<h3>3.1. Critérios para classificação</h3>
 
-1. **Situação financeira e socioeconômica**  
-2. **Mérito técnico, científico e acadêmico**
+<p style='text-align: justify;text-justify: inter-word;'>
+Os critérios a seguir, avaliados pela coordenação do curso a partir da documentação fornecida (veja abaixo), serão levados em consideração na concessão da bolsa:
+<ol>
+    <li>Situação financeira e socioeconômica</li>
+    <li>Mérito técnico, científico e acadêmico</li>
+</ol>
 
-A avaliação será realizada pela coordenação do curso.  
+Para avaliação socioeconômica, serão analisados os seguintes documentos:
+<ul>
+    <li>Holerite ou outros comprovantes de renda do Grupo Familiar</li>
+    <li>Certidão de nascimento dos menores de 21 anos do Grupo Familiar</li>
+    <li>Comprovante de aluguel ou de prestação de financiamento de moradia</li>
+    <li>Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção</li>
+    <li>Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar</li>
+</ul>
 
-Para análise de mérito, considerar-se-ão os documentos anexados ao processo de seleção.  
-
-Para avaliação socioeconômica, serão analisados:  
-- Holerite ou outros comprovantes de renda do Grupo Familiar  
-- Certidão de nascimento dos menores de 21 anos do Grupo Familiar  
-- Comprovante de aluguel ou de prestação de financiamento de moradia  
-- Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção  
-- Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar  
+Para avaliação do mérito, a documentação de inscrição será levada em conta.<br><br>
 
 Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.  
+</p>  
+
 
 > **Nota:** O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
 
