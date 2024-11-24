@@ -8,7 +8,7 @@ layout: home
 <div style='float: left; width: 100%; margin-bottom: 2em;'>
     <img src='{{site.url}}/assets/curso.png' style='width:25%; float: left; border-radius:3%; margin-right: 1em;'>
     <div style='text-align: justify;text-justify: inter-word; padding-top: 0; padding-left: 2em;'>
-        Esta é a página do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Veja abaixo <i>posts</i> com mais informações sobre o curso, incluindo conteúdo, docentes, público alvo, valores e mais.<br><br>
+        Esta é a página do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Veja mais abaixo no nosso <i>blog</i>, diversos <i>posts</i> com mais informações sobre o curso, incluindo conteúdo, docentes, valores e mais.<br><br>
 
         O curso ocorrerá dentre os dias 15/03/2025 e 15/05/2025 de forma totalmente remota. São 60 horas de carga divididas em quatro módulos contendo aulas gravadas e atividades de aprendizado e avaliação.<br><br>
 
