@@ -14,6 +14,6 @@ layout: home
 
         Nosso público-alvo consiste em profissionais à busca de mais capacitação para atuar em setores que dependam da grande intersecção entre ciência de dados e pesquisa operacional. Se você possui este perfil, o curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> lhe oferecerá inúmeras oportunidades de aprimoramento.<br><br>
         
-        Para seguir o conteúdo será necessário algum conhecimento básico de álgebra linear e de cálculo diferencial multivariado. É preciso ter conhecimento de programação de computadores. 
+        Curso certificado pela <a href='https://www.usp.br/' target='_blank'>USP</a>. 
     </div>
 </div>
