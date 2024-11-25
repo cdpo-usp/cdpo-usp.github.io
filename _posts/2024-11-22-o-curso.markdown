@@ -37,9 +37,9 @@ Os métodos estatísticos aplicados contemplam, por exemplo, testes não-paramé
 <p style='text-align: justify;text-justify: inter-word;'>
 Otimização Matemática é um ramo da matemática aplicada que se dedica a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
 
-É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.<br><br>
+Muitas tecnologias modernas não seriam possíveis sem técnicas de otimização. Além disso, a maioria das operações econômicas de grande porte depende de forma central de técnicas de otimização e diversas aplicações de computação científica demandam métodos de otimização eficientes.<br><br>
 
-Muitas tecnologias modernas não seriam possíveis sem técnicas de otimização. Além disso, a maioria das operações econômicas de grande porte depende de forma central de técnicas de otimização e diversas aplicações de computação científica demandam métodos de otimização eficientes.
+É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.
 </p>
 
 <h2>2. Aplicações</h2>
@@ -55,3 +55,11 @@ Ela se destaca pela sua versatilidade de integrar metodologias teóricas e prát
 Motivada e alavancada pela enorme quantidade de dados gerados na atualidade, com o avanço da tecnologia e interconectividade das atividades pessoais, a ciência de dados contribui de forma significativa para a formação complementar de profissionais nas mais diversas áreas de conhecimento e para o avanço científico, industrial e empresarial.
 
 <h3>2.2. Pesquisa Operacional</h3>
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A Pesquisa Operacional é uma área interdisciplinar que combina metodologias, tecnologias e ferramentas de diversas áreas como a estatística, otimização, matemática, computação e inteligência artificial, para auxiliar na tomada de decisões em operações de forma a obter destas o melhor desempenho científico, industrial e empresarial.<br><br>
+
+    Se o parágrafo acima pareceu-lhe familiar, não é à toa. A Pesquisa Operacional compartilha muitas ferramentas com a Ciência de Dados. Mais que isso, os beneficiários de boas práticas em Ciência de Dados frequentemente são os mesmos do que os que se beneficiariam de boas práticas em Pesquisa Operacional.<br><br>
+
+    Assim, como a CD, a PO também "se destaca pela sua versatilidade de integrar metodologias teóricas e práticas para solucionar problemas e auxiliar na tomada de decisão em áreas como a engenharia, saúde, indústria, economia, ciências sociais, biologia, educação e tecnologia". Entretanto, no caso da Pesquisa Operacional, muito mais provavelmente estaremos lidando com operações físicas, tais como a entrega de encomendas de <i>e-commerce</i>, a escolha da localização de armazéns, etc.<br><br>
+</p>
