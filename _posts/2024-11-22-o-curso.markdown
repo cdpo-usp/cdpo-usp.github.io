@@ -23,10 +23,19 @@ Com a ampliação da procura no mercado por profissionais com habilidades para a
 
 <h3>1.1. Estatística</h3>
 
+<p style='text-align: justify;text-justify: inter-word;'>
+
+A Estatística é a ciência que se dedica à coleta, organização, análise, interpretação e apresentação de dados. Ela permite extrair e compreender informações relevantes dos dados a partir de amostras representativas de populações maiores, assim como avaliar a significância de padrões utilizando técnicas inferenciais.<br><br>
+
+A visualização e exploração de dados é uma etapa fundamental para extrair as primeiras informações a partir de dados observados. É conhecida como a pedra fundamental da análise de dados, e pode fornecer as primeiras evidências empíricas sobre padrões existentes em conjuntos de dados. A inferência estatística por sua vez, fundamentada na teoria das probabilidades, fornece o ferramental teórico de estimação e testes de hipóteses para avaliar a significância estatística dos resultados amostrais observados. <br><br>
+
+Os métodos estatísticos aplicados contemplam, por exemplo, testes não-paramétricos e a modelagem estatística e preditiva. Modelos lineares e modelos lineares generalizados, com especial destaque ao modelo de regressão logística, aliados a ferramentas para avaliação da performance dos modelos e análises de diagnóstico, contemplam um importante repertório que serve como base para a modelagem estatística, com aplicação nas mais diversas áreas em que os dados são observados.
+
+
 <h3>1.2. Otimização</h3>
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Otimização Matemática é um ramo da matemática aplicada que dedica-se a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
+Otimização Matemática é um ramo da matemática aplicada que se dedica a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
 
 É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.<br><br>
 
@@ -36,5 +45,13 @@ Muitas tecnologias modernas não seriam possíveis sem técnicas de otimização
 <h2>2. Aplicações</h2>
 
 <h3>2.1. Ciência de Dados</h3>
+
+<p style='text-align: justify;text-justify: inter-word;'>
+
+A Ciência de Dados é uma área interdisciplinar que combina metodologias, tecnologias e ferramentas de diversas áreas como a estatística, otimização, matemática, computação e inteligência artificial, para analisar, modelar e interpretar dados gerados nas mais diversas áreas de conhecimento.<br><br>
+
+Ela se destaca pela sua versatilidade de integrar metodologias teóricas e práticas para solucionar problemas e auxiliar na tomada de decisão em áreas como a engenharia, saúde, indústria, economia, ciências sociais, biologia, educação e tecnologia.<br><br>
+
+Motivada e alavancada pela enorme quantidade de dados gerados na atualidade, com o avanço da tecnologia e interconectividade das atividades pessoais, a ciência de dados contribui de forma significativa para a formação complementar de profissionais nas mais diversas áreas de conhecimento e para o avanço científico, industrial e empresarial.
 
 <h3>2.2. Pesquisa Operacional</h3>
