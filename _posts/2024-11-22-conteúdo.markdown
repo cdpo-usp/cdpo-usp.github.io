@@ -41,6 +41,7 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
         <li>Avaliação de modelos</li>
         <li>Análise de diagnóstico</li>
         <li>Modelo de regressão logística</li>
+        <li>Inferência Bayesiana</li>
     </ul>
 </p>
 
