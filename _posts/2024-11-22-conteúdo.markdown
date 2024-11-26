@@ -70,6 +70,8 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
             <ul>
                 <li>O problema de otimização não-linear</li>
                 <li>Exemplos</li>
+                <li>Casos especiais: otimização quadrática e otimização convexa</li>
+                <li>Máxima descida, gradientes conjugados, Nesterov</li>
                 <li>Bibliotecas computacionais</li>
             </ul>
         </li>
@@ -94,6 +96,7 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
                 <li>O problema de otimização linear binária e inteira</li>
                 <li>Método de Branch and Bound</li>
                 <li>Bibliotecas computacionais</li>
+                <li>Alternando entre <i>solvers</i></li>
             </ul>
         </li>
         <li>
