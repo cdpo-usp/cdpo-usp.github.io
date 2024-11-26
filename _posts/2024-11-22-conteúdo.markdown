@@ -109,6 +109,7 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
                 <li>O problema do caixeiro viajante</li>
                 <li>O problema de timetabling</li>
                 <li>Agrupamento por k-means</li>
+                <li>Otimização multiobjetivo</li>
             </ul>
         </li>
     </ul>
