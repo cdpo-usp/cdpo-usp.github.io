@@ -21,23 +21,26 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
         <li>
             Análise Exploratória de Dados
             <ul>
-            <li>Tipos de dados, medidas descritivas de tendência central: média, mediana e moda, medidas de dispersão: variância, desvio padrão, amplitude e intervalo interquartil</li>
-            <li>Visualização de dados.</li>
-            <li>Associação de variáveis.</li>
+                <li>Tipos de dados, medidas descritivas de tendência central: média, mediana e moda, medidas de dispersão: variância, desvio padrão, amplitude e intervalo interquartil</li>
+                <li>Visualização de dados</li>
+                <li>Associação de variáveis</li>
             </ul>
         </li>
-        <li>Probabilidades. 
-        <ul><li>Conceitos básicos.<\li> 
-            <li>Distribuições discretas: Bernoulli, binomial e Poisson. </li> 
-            <li>Distribuições contínuas: uniforme, normal, exponencial e t de Student</li>
-            <li>Teorema do Limite Central.</li>
-        </ul>
+        <li>
+            Probabilidades
+            <ul>
+                <li>Conceitos básicos</li> 
+                <li>Distribuições discretas: Bernoulli, binomial e Poisson</li> 
+                <li>Distribuições contínuas: uniforme, normal, exponencial e t de Student</li>
+                <li>Teorema do Limite Central</li>
+            </ul>
         </li>
-        <li>Inferência estatística. 
-        <ul>
-            <li>Estimação pontual e intervalar.</li>
-            <li>Testes de hipóteses: conceitos e aplicações.</li>
-        </ul>
+        <li>
+            Inferência estatística
+            <ul>
+                <li>Estimação pontual e intervalar</li>
+                <li>Testes de hipóteses: conceitos e aplicações</li>
+            </ul>
         </li> 
     </ul>
 </p>
@@ -45,21 +48,23 @@ Abaixo você pode encontrar os programas de cada um dos módulos.
 <h3>1.2. Métodos Estatísticos Aplicados</h3>
 <p style='text-align: justify;text-justify: inter-word;'>
     <ul>
-        <li>Métodos Não Paramétricos
+        <li>
+            Métodos Não Paramétricos
             <ul>
-            <li>Teste Qui-quadrado para associação de variáveis</li>
-            <li>Testes de Shapiro-Wilk, Wilcoxon, Mann-Whitney e Kruskal-Wallis</li>
-            <li>Aplicações em ciência de dados</li>
-            </li>
+                <li>Teste Qui-quadrado para associação de variáveis</li>
+                <li>Testes de Shapiro-Wilk, Wilcoxon, Mann-Whitney e Kruskal-Wallis</li>
+                <li>Aplicações em ciência de dados</li>
             </ul>
-        <li>Modelagem estatística
+        </li>
+        <li>
+            Modelagem estatística
             <ul>
-            <li>Regressão linear simples e múltipla</li>
-            <li>Avaliação de modelos</li>
-            <li>Análise de diagnóstico</li>
-            <li>Modelo de regressão logística</li>
+                <li>Regressão linear simples e múltipla</li>
+                <li>Avaliação de modelos</li>
+                <li>Análise de diagnóstico</li>
+                <li>Modelo de regressão logística</li>
             </ul>
-            </li>
+        </li>
         <li>Inferência Bayesiana</li>
     </ul>
 </p>
