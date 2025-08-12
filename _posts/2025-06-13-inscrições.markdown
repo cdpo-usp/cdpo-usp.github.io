@@ -52,9 +52,6 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 > Você pode repetir documentos, por exemplo, caso o CPF conste no documento de identificação.
 {: .prompt-tip}
 
-> Para emissão do certificado será necessário apresentar diploma de graduação.
-{: .prompt-warning}
-
 ## 2. Valores e Formas de Pagamento
 
 <p style='text-align: justify;text-justify: inter-word;'>
