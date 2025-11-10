@@ -37,7 +37,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
     <ol>
         <li>Documento de identificação: RG, Habilitação, RNE (ou protocolo), Passaporte, etc.</li>
         <li>CPF (exceto para estrangeiros)</li>
-        <li>Diploma de graduação ou documento comprovando possível conclusão em 2024</li>
+        <li>Diploma de graduação ou histórico escolar de curso de graduação em andamento</li>
         <li>Histórico escolar de graduação (opcional)</li>
         <li>Currículo (opcional)</li>
         <li>Comprovante de residência</li>
