@@ -23,8 +23,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
     A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As informações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
     <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=25004&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
 
-    As inscrições deverão ser feitas entre os dias 03/12/2025 e 08/03/2025.
-    através do link a seguir:<br>
+    As inscrições deverão ser feitas entre os dias 03/12/2025 e 08/03/2025 através do link a seguir:<br>
     <a href='https://fealq.org.br/cursos/curso-de-atualizacao-estatistica-e-otimizacao-para-ciencia-de-dados-e-pesquisa-operacional/' target="_blank">Clique para abrir o site de inscrição</a>
 </p>
 
