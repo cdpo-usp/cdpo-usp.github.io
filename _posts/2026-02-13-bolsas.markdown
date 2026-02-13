@@ -1,0 +1,108 @@
+---
+layout: post
+title: "Classificação para Bolsas"
+date:  2025-02-13 15:30 -0300
+categories: [ bolsas ]
+authors: [ elias ]
+pin: true
+description: Neste <i>post</i> você encontra o resultado da classificação de bolsas.
+math: false
+---
+
+## Classificação para Bolsas no Curso Estatística E Otimização para Ciência de Dados e Pesquisa Operacional
+
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Entre os dias 3 de dezembro de 2025 e 18 de janeiro de 2026, recebemos 65 solicitações de bolsas para o curso CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional, 3ª edição. A bolsa concede isenção da taxa de matrícula (R$ 150,00) e do valor do curso (R$ 1.248,00).
+<br><br>
+
+Do total de solicitações, 61 foram deferidas e analisadas conforme critérios de situação financeira e socioeconômica e de mérito técnico, científico e acadêmico. Quatro solicitações foram indeferidas por não terem inscrição correspondente no site da Fealq.
+<br><br>
+
+O número de bolsas concedidas será equivalente a 10% do total de matriculados. 
+<br><br>
+
+Os bolsistas serão convocados por e-mail (cdpo@icmc.usp.br), na ordem de classificação apresentada abaixo. Ao ser convocado(a) para matrícula, o(a) candidato(a) contemplado(a) deverá completar a matrícula, segundo as instruções fornecidas, em até 24 horas.   
+<br><br>
+
+Por favor, aguarde a convocação para confirmar o interesse. A falta de confirmação no prazo estipulado implicará na convocação de outro(a) candidato(a). As convocações poderão ocorrer até o dia 13/03/2026, um dia antes do início do curso. O curso inicia-se no dia 14/03/2026.
+<br><br>
+
+Caso deseje garantir sua vaga sem aguardar a bolsa, você pode seguir as instruções enviadas por e-mail para a confirmação de matrícula. Caso seja contemplado com a bolsa e tenha feito o pagamento da matrícula e curso, poderá solicitar o reembolso, mediante cobrança das taxas aplicáveis.
+</p>
+
+### Classificação dos pedidos deferidos
+
+| Classificação | Iniciais | Data de nascimento |
+|---------------|----------|-------------------|
+| 1  | JSDSB   | 24/02/1994 |
+| 2  | SERDM   | 11/08/1994 |
+| 3  | LFF     | 23/08/2002 |
+| 4  | VNDS    | 09/03/1992 |
+| 5  | WSC     | 11/01/1994 |
+| 6  | GBFDS   | 26/12/2001 |
+| 7  | LTC     | 07/06/1985 |
+| 8  | LDAS    | 28/08/2003 |
+| 9  | LFSAC   | 09/09/1982 |
+| 10 | MVR     | 02/05/1991 |
+| 11 | DCCW    | 29/07/1998 |
+| 12 | BDOP    | 02/04/1996 |
+| 13 | PDCC    | 20/01/2000 |
+| 14 | MDJS    | 02/03/1994 |
+| 15 | PROS    | 29/09/1997 |
+| 16 | MMB     | 27/12/2001 |
+| 17 | VACS    | 28/11/1992 |
+| 18 | EGLJ    | 07/12/1996 |
+| 19 | LBC     | 16/12/1997 |
+| 20 | APLDS   | 26/02/2001 |
+| 21 | VSJP    | 20/05/1989 |
+| 22 | APDN    | 10/12/2004 |
+| 23 | JCM     | 02/12/1971 |
+| 24 | FAMDS   | 22/10/1993 |
+| 25 | BPC     | 15/01/1993 |
+| 26 | DFSF    | 04/10/1999 |
+| 27 | MJSM    | 05/02/2003 |
+| 28 | LH      | 29/11/1986 |
+| 29 | DLL     | 22/07/1982 |
+| 30 | CTM     | 14/03/2005 |
+| 31 | JCADS   | 03/03/1995 |
+| 32 | JCMO    | 07/03/1992 |
+| 33 | DDDSDA  | 11/10/1996 |
+| 34 | CFVDO   | 25/07/2000 |
+| 35 | BADCS   | 14/05/1983 |
+| 36 | LEGPLDO | 22/08/1997 |
+| 37 | ERDOS   | 06/05/1986 |
+| 38 | CPDA    | 27/10/1989 |
+| 39 | GRSDS   | 10/09/1998 |
+| 40 | RPDO    | 28/01/1987 |
+| 41 | PAMDSD  | 23/05/2003 |
+| 42 | JHLDM   | 07/06/2001 |
+| 43 | CMCSDC  | 06/03/2001 |
+| 44 | RODR    | 09/01/2002 |
+| 45 | ACT     | 06/08/1990 |
+| 46 | VHGDO   | 15/04/1999 |
+| 47 | GHAS    | 03/02/2000 |
+| 48 | RCN     | 07/06/1995 |
+| 49 | MFDS    | 11/12/2002 |
+| 50 | RALDS   | 08/03/1983 |
+| 51 | PHOH    | 20/04/1991 |
+| 52 | ARSS    | 12/02/1999 |
+| 53 | DOC     | 16/04/2002 |
+| 54 | AEJ     | 26/12/1964 |
+| 55 | WG      | 15/02/1982 |
+| 56 | GGDS    | 12/11/1995 |
+| 57 | JSC     | 19/07/1990 |
+| 58 | TRDA    | 15/01/1991 |
+| 59 | ACDSO   | 12/02/2001 |
+| 60 | MARM    | 03/07/1993 |
+| 61 | EARDC   | 19/09/1988 |
+
+### Pedidos indeferidos
+
+| Situação                               | Iniciais | Data de nascimento |
+|----------------------------------------|----------|-------------------|
+| Indeferido, sem inscrição no curso    | OJF      | - |
+| Indeferido, sem inscrição no curso    | LCDSO    | - |
+| Indeferido, sem inscrição no curso    | GDSDJ    | - |
+| Indeferido, sem inscrição no curso    | JRGDL    | 12/06/1975 |
+
