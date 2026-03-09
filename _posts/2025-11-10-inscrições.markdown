@@ -12,8 +12,8 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 
 > Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
 {: .prompt-warning}
-> O prazo para solicitação de bolsa é menor do que o prazo total para inscrições.
-{: .prompt-warning}
+> O prazo para solicitação de bolsa está encerrado.
+{: .prompt-danger}
 > O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
 {: .prompt-danger}
 
@@ -55,12 +55,17 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
         <ul>
             <li>Valor da inscrição: R$100,00</li>
             <li>Valor da matrícula: R$150,00</li>
-            <li>Valor do curso: R$1.248,00 (3x R$416,00)</li>
+            <li>Valor do curso: R$1.248,00
+                <ul>
+                    <li>3x R$416,00 até dia 12/03</li>
+                    <li>2x R$624,00 após dia 12/03</li>
+                </ul>
+            </li>
         </ul>
 </p>
 <p style='text-align: justify;text-justify: inter-word;'>
 
-    As formas de pagamento aceitas serão divulgadas em breve.
+    Após dia 12/03, somente aceitaremos pagamento em PIX ou cartão de crédito.
 </p>
 
 <!-- <p style='text-align: justify;text-justify: inter-word;'>
